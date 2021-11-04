@@ -71,8 +71,7 @@
 |       ity [yes , no]
 |  14   dntl_ins : employers contribution towards the dental plan
 |       [none, half, full]
-|  15   bereavement.boolean : employer's financial contribution towards the 
-|       covering the costs of bereavement
+|  15   bereavement.boolean : employer's financial contribution towards the covering the costs of bereavement
 |       [yes , no]
 |  16   empl_hplan : employer's contribution towards the health plan
 |       [none, half, full]
