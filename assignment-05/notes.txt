@@ -1,0 +1,2 @@
+In the doc:
+- the labels column does not 100% match with the rain today column, no clarification here -> assuming labels is correct
