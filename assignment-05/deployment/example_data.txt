@@ -1,0 +1,22 @@
+Date:           2010-04-17     2016-11-05
+Location:       Townsville     Wollongong
+MinTemp:        21.2           17.3
+MaxTemp:        29.9           23.9
+Rainfall:       0.0            0.0
+Evaporation:    7.4            NaN
+Sunshine:       10.1           NaN
+WindGustDir:    E              W
+WindGustSpeed:  44.0           72.0             0.0
+WindDir9am:     SSE            WSW
+WindDir3pm:     E              WNW
+WindSpeed9am:   17.0           35.0
+WindSpeed3pm:   28.0           30.0
+Humidity9am:    67.0           17.0
+Humidity3pm:    62.0           21.0             0.0
+Pressure9am:    1016.7         1004.1
+Pressure3pm:    1013.5         1005.8           0.0
+Cloud9am:       7.0            NaN
+Cloud3pm:       7.0            NaN
+Temp9am:        25.9           21.3
+Temp3pm:        29.1           23.1
+RainToday:      No             No
